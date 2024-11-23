@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">vue-firebase</string>
+    <string name="title_activity_main">vue-firebase</string>
+    <string name="package_name">com.yourname.vuefirebase</string>
+    <string name="custom_url_scheme">com.yourname.vuefirebase</string>
+</resources>

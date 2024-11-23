@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "175325517741",
+    "project_id": "vue-firebase-c46ed",
+    "storage_bucket": "vue-firebase-c46ed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175325517741:android:45eafb29de23408310b324",
+        "android_client_info": {
+          "package_name": "com.yourname.vuefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175325517741-fqr3mjr5p96v6m2c0r336e712ma0fvov.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yourname.vuefirebase",
+            "certificate_hash": "3d91be094bc5a7e19bd3ff9b13e2af4e054f9612"
+          }
+        },
+        {
+          "client_id": "175325517741-7nnj0faokh4mi2f6gh6610g92s2h3qu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA26mxUfUa51bkACY9NurRzx8LsBoiXwQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175325517741-7nnj0faokh4mi2f6gh6610g92s2h3qu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
