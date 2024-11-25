@@ -159,10 +159,10 @@ ionic cap open android
 ### 6. Generate Signed APK
 Setelah proyek terbuka di Android Studio, ikuti langkah-langkah berikut:
 - Buka menu "Build" di toolbar Android Studio
-- Pilih "Generate Signed Bundle / APK"
-- Pada dialog yang muncul, pilih "APK"
+- Pilih "Build App Bundle(s) / APK(s)"
+- Lalu bisa pilih yang "Build APK(s)"
 
-<img src="https://github.com/user-attachments/assets/6ab17464-5dc1-4558-9503-2ee560eb6a1c" width="500">
+<img src="https://github.com/user-attachments/assets/439d9689-fddc-4829-ab66-ecbb8c6a7288" width="500">
 
 - Setelah berhasil terbuat maka akan muncul BUILD SUCCESSFUL
 
